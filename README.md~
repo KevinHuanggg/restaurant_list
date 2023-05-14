@@ -15,7 +15,7 @@ npm install
 4. npm安裝完畢後，輸入:
 
 ```
-npm run start
+npm run dev
 ```
 
 5. 進入網址:
